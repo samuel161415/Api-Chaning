@@ -9,6 +9,7 @@ To get this project running on your local machine, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/samuel161415/Api-Chaning.git
+   cd api-chaining
    ```
 2, **Install dependencies:**
    ```
