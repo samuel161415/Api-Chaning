@@ -9,11 +9,15 @@ To get this project running on your local machine, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/samuel161415/Api-Chaning.git
-   cd api-chaining ```
+   ```
 2, **Install dependencies:**
-   ```npm install```
+   ```
+   npm install
+   ```
 3, **Start the development server:**
-   ``` npm start ```
+  ```bash
+  npm start
+  ```
    This will run the app in the development mode. Open http://localhost:3000 to view it in the browser.
 
 ## Project Structure
